@@ -34,6 +34,10 @@ public class Overloading {
 
 	}
 	
-	
+	public String getName(){
+		
+		System.out.println(" Hasmukh");
+		return " ";
+	}
 
 }
